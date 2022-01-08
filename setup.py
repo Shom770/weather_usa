@@ -14,8 +14,7 @@ setup(
     long_description=README,
     long_description_content_type="text/markdown",
     url="https://github.com/Shom770/weather_usa",
-    author="Real Python",
-    author_email="info@realpython.com",
     license="MIT",
     install_requires=["aiohttp", "inflection"],
+    packages=["weather"]
 )
