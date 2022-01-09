@@ -5,5 +5,5 @@ It uses asyncio for when calling multiple requests to speed up the time it takes
 # How do I install this?
 `pip install weather-usa`
 
-# Where is the documentation?
-It will be coming soon after a few changes.
+# How do I import this module?
+`import weather`
