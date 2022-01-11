@@ -15,6 +15,6 @@ setup(
     long_description_content_type="text/markdown",
     url="https://github.com/Shom770/weather_usa",
     license="MIT",
-    install_requires=["aiohttp", "inflection"],
+    install_requires=["aiohttp", "inflection", "sphinx"],
     packages=find_packages()
 )
